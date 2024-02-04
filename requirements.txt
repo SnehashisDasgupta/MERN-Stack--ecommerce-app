@@ -1,0 +1,10 @@
+react-hot-toast 
+react-icons 
+sass 
+firebase 
+react-router-dom 
+react-table
+@types/react-table
+
+chart.js 
+react-chartjs-2
